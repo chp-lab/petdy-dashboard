@@ -1,0 +1,28 @@
+{
+  "name": "petdy-dashboard",
+  "version": "1.0.0",
+  "description": "petdy dashboard",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chp-lab/petdy-dashboard.git"
+  },
+  "keywords": [
+    "Petdy",
+    "dashboard",
+    "ibeacon"
+  ],
+  "author": "Chatpeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chp-lab/petdy-dashboard/issues"
+  },
+  "homepage": "https://github.com/chp-lab/petdy-dashboard#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
